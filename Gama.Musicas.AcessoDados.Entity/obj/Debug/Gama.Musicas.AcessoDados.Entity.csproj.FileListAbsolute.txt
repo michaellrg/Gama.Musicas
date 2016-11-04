@@ -1,0 +1,17 @@
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Musicas.AcessoDados.Entity.dll.config
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Musicas.AcessoDados.Entity.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Musicas.AcessoDados.Entity.pdb
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Comum.Entity.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Musicas.Dominio.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Comum.Entity.pdb
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\Gama.Musicas.Dominio.pdb
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.Migrations.EmailAlbum.resources
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.dll
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.AcessoDados.Entity\obj\Debug\Gama.Musicas.AcessoDados.Entity.pdb
