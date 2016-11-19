@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Gama.Musicas.WEB.Annotations;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -24,6 +25,7 @@ namespace Gama.Musicas.WEB.ViewModels.Album
         [DataType(DataType.EmailAddress)]
         [Required (ErrorMessage ="O email é obrigatório")]
         [MaxLength(50, ErrorMessage = "Você excedeu 50 caracteres")]
+        [EmailTreinaWeb(ErrorMessage ="O email tem que ser Treinaweb")]
         public string Email { get; set; }
     }
 }

@@ -1,5 +1,5 @@
-C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\bin\Debug\Gama.Musicas.Dominio.dll
-C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\bin\Debug\Gama.Musicas.Dominio.pdb
-C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.csprojResolveAssemblyReference.cache
-C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.dll
-C:\Users\Desktop\Documents\Visual Studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.pdb
+C:\Users\Desktop\documents\visual studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\bin\Debug\Gama.Musicas.Dominio.dll
+C:\Users\Desktop\documents\visual studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\bin\Debug\Gama.Musicas.Dominio.pdb
+C:\Users\Desktop\documents\visual studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\documents\visual studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.dll
+C:\Users\Desktop\documents\visual studio 2015\Projects\Gama.Musicas\Gama.Musicas.Dominio\obj\Debug\Gama.Musicas.Dominio.pdb
